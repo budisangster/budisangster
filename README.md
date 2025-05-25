@@ -1,4 +1,13 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4ac29a&height=120&section=header"/>
+</div>
+
 # Hi, I'm Muhammad Faiz!
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=Welcome+to+my+GitHub!;Full-Stack+Developer;Web+Development+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" style="background-image: linear-gradient(to right, #4ac29a, #bdfff3);" />
+</div>
+
 I'm a passionate developer with a love for coding. My skills range from web development and mobile applications to networking. I'm a lifelong learner.
 
 [![GitHub followers](https://img.shields.io/github/followers/budisangster?style=social)](https://github.com/budisangster)
@@ -32,15 +41,15 @@ I'm a passionate developer with a love for coding. My skills range from web deve
 
 ## 📊 GitHub Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=budisangster&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=budisangster&show_icons=true&theme=vue&bg_color=4ac29a,4ac29a,bdfff3&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
 
 ## 🌟 Featured Projects
 
-<a href="https://github.com/budisangster/url-shortener-pro">
+<a href="https://github.com/budisangster/Instagram-Non-Followers-Finder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=budisangster&repo=url-shortener-pro&theme=radical" />
 </a>
 <a href="https://github.com/budisangster/netflix-clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=budisangster&repo=netflix-clone&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=budisangster&repo=netflix-clone&theme=vue&bg_color=4ac29a,4ac29a,bdfff3&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
 </a>
 
 ## 🖥️ Network & Tools
@@ -72,5 +81,9 @@ Experienced in:
 - [Buy Me A Coffee](https://www.buymeacoffee.com/budisangster) - Buy me a coffee!
 
 ---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4ac29a&height=120&section=footer"/>
+</div>
 
 ⭐️ From [budisangster](https://github.com/budisangster) 
